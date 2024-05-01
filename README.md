@@ -1,1 +1,1 @@
-# ML-homework-2
+# ML for Materials Science-homework-2
